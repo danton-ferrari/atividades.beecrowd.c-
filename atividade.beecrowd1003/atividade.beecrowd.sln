@@ -5,6 +5,10 @@ VisualStudioVersion = 17.13.35913.81 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade.beecrowd1003", "atividade.beecrowd1003\atividade.beecrowd1003.csproj", "{EE7B42A3-D357-4B41-8706-6E89E4EECAA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividades.beecrowd1002", "..\atividades.beecrowd\atividades.beecrowd\atividades.beecrowd1002.csproj", "{0A801D37-4D22-00D8-B414-5CF4369248F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio.beecrowd1007", "..\exercicio.beecrowd1007\exercicio.beecrowd1007.csproj", "{8A219CDC-F085-45D6-9CF5-B18ED0ADFC14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{EE7B42A3-D357-4B41-8706-6E89E4EECAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE7B42A3-D357-4B41-8706-6E89E4EECAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE7B42A3-D357-4B41-8706-6E89E4EECAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A801D37-4D22-00D8-B414-5CF4369248F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A801D37-4D22-00D8-B414-5CF4369248F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A801D37-4D22-00D8-B414-5CF4369248F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A801D37-4D22-00D8-B414-5CF4369248F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A219CDC-F085-45D6-9CF5-B18ED0ADFC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A219CDC-F085-45D6-9CF5-B18ED0ADFC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A219CDC-F085-45D6-9CF5-B18ED0ADFC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A219CDC-F085-45D6-9CF5-B18ED0ADFC14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
